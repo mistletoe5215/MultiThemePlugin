@@ -1,0 +1,3 @@
+include ':app'
+include ':theme-resource-proxy-plugin'
+rootProject.name = "MultiThemePlugin"
